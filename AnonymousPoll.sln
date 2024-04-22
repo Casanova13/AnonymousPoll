@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousPoll", "AnonymousPoll\AnonymousPoll.csproj", "{3B814541-DA7E-44C1-9662-670DDB743769}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B814541-DA7E-44C1-9662-670DDB743769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B814541-DA7E-44C1-9662-670DDB743769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B814541-DA7E-44C1-9662-670DDB743769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B814541-DA7E-44C1-9662-670DDB743769}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7AC595B-D2F9-465C-9DBA-64DB0D899367}
+	EndGlobalSection
+EndGlobal

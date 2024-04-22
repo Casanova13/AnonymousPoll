@@ -1,0 +1,7 @@
+6
+M,27,Environmental Science,1
+F,19,Agriculture,2
+F,26,Pharmacy,2
+F,23,Computer Engineering,3
+M,21,Chemistry,2
+F,22,Foreign Service,2
